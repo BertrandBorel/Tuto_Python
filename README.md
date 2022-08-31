@@ -6,4 +6,4 @@
 
 **3- Notification de bureau :** Générer des notfications avec la bibliothèque **Plyer**.
 
-**4- Tableaux avec tabulate !** Utilise le module **Tabulate** pour mettre en forme des tableaux de données.
+**4- Tableaux avec tabulate :** Utilise le module **Tabulate** pour mettre en forme des tableaux de données.
