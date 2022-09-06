@@ -9,3 +9,5 @@
 **4- Tableaux avec tabulate :** Utilise le module **Tabulate** pour mettre en forme des tableaux de données.
 
 **5- QR-code :** Création de QR-code avec Python (livbrairie **pyqrcode**)
+
+**6- Générateur de mot de passe :** Générer des mots de passes avec Python. 
