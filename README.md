@@ -11,3 +11,5 @@
 **5- QR-code :** Création de QR-code avec Python (livbrairie **pyqrcode**)
 
 **6- Générateur de mot de passe :** Générer des mots de passes avec Python. 
+
+**7- Fonction reverse :** Coder la fonction reverse pour inverser une chaîne de caractères.
