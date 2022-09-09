@@ -14,5 +14,6 @@
 
 **7- Fonction reverse :** Coder la fonction reverse pour inverser une chaîne de caractères.
 
-**8- Telecharger_video_Youtube :** Télécharger une vidéo Youtube avec Python (bibliothèque : **pytube**) <br>
-  * + Télécharger la piste audio d'une vidéo Youtube
+**8- Telecharger_video_Youtube :** Manipuler des vidéos Youtube avec Python (bibliothèque : **pytube**)
+  *  Télécharger une vidéo Youtube 
+  *  Télécharger la piste audio d'une vidéo Youtube
