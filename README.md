@@ -8,10 +8,10 @@
 
 **4- Tableaux avec tabulate :** Utilise le module **Tabulate** pour mettre en forme des tableaux de données.
 
-**5- QR-code :** Création de QR-code avec Python (livbrairie **pyqrcode**)
+**5- QR-code :** Création de QR-code avec Python (bibliothèque : **pyqrcode**)
 
 **6- Générateur de mot de passe :** Générer des mots de passes avec Python. 
 
 **7- Fonction reverse :** Coder la fonction reverse pour inverser une chaîne de caractères.
 
-**8- Télécharger une vidéo Youtube avec Python
+**8- Telecharger_video_Youtube :** Télécharger une vidéo Youtube avec Python (bibliothèque : **pytube**)
