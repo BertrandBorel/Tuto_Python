@@ -1,7 +1,7 @@
 # Télécharger une vidéo youtube (haute définition)
 # pip install pytube
 
-# source :
+# sources :
 # - https://pytube.io/en/latest/
 # - https://dev.to/seijind/how-to-download-youtube-videos-in-python-44od 
 # - https://www.geeksforgeeks.org/pytube-python-library-download-youtube-videos/ 
