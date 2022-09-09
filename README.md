@@ -13,3 +13,5 @@
 **6- Générateur de mot de passe :** Générer des mots de passes avec Python. 
 
 **7- Fonction reverse :** Coder la fonction reverse pour inverser une chaîne de caractères.
+
+**8- Télécharger une vidéo Youtube avec Python
