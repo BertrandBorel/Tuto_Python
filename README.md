@@ -19,3 +19,5 @@
 *  Télécharger la piste audio d'une vidéo Youtube
 
 **9- PNG_to_JPG :** : Application pour convertir une image (PNG vers JPG) en Python avec **Tkinter** et **Pillow**.
+
+**10- Convertisseur_de_devises : Conversion de devises avec **forex-python**
