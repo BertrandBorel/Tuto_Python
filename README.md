@@ -22,4 +22,4 @@
 
 **10- Convertisseur_de_devises :** Conversion de devises avec **forex-python**
 
-**11- Convertisseur_chiffres_romains :** Convertit des nombres romains en nombres décimaux.
+**11- Convertisseur_chiffres_romains :** Convertir des nombres romains en nombres décimaux.
